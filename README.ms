@@ -1,0 +1,1 @@
+"Discover my coding journey through a collection of projects and skills showcased on my personal portfolio website. From web development to creative problem-solving, explore my passion for technology. Let's connect and explore the world of coding together!" 
