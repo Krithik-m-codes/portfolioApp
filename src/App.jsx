@@ -9,7 +9,7 @@ function App() {
         {/* <marquee direction="left" scrollamount="10"  className="w-full h-10 text-black font-bold text-2xl bg-yellow-300 border border-black"  > Under Construction ;)  </marquee> */}
         <Marquee
           pauseOnHover="true"
-          className="w-full h-10 origin-top rotate-12  text-black font-bold text-2xl bg-yellow-300 border-dashed border-4 py-6 border-black"
+          className="w-full h-10 origin-center rotate-[15deg] text-black font-bold text-2xl bg-yellow-300 border-dashed border-4 py-6 border-black"
         >
           <h1 className="mx-10 ">Under Construction ;) </h1>
           <h1 className="mx-10">Under Construction ;) </h1>
